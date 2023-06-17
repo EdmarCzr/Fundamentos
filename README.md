@@ -1,2 +1,4 @@
 # Fundamentos
-Fundamentos JavaScript: Repositório completo para aprender os princípios essenciais do JavaScript. Exemplos práticos e recursos abrangentes. Ideal para iniciantes e desenvolvedores experientes.
+Bem-vindo(a) ao repositório "Fundamentos JavaScript"! Este repositório é uma compilação de recursos abrangentes e exemplos práticos para ajudá-lo(a) a dominar os fundamentos essenciais da linguagem JavaScript. Seja você um iniciante em programação ou um desenvolvedor experiente em busca de aprimoramento, este repositório é perfeito para você.
+
+O JavaScript é uma linguagem de programação versátil, que desempenha um papel crucial no desenvolvimento web moderno. Com sua sintaxe intuitiva e poderosa, o JavaScript permite a criação de interações dinâmicas em páginas da web, validação de formulários, manipulação de elementos HTML, construção de aplicativos web interativos e muito mais. Dominar os fundamentos do JavaScript é um passo fundamental para se tornar um desenvolvedor web proficiente.
